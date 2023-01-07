@@ -1,0 +1,53 @@
+body {
+  border: 1px solid;
+  max-width: 50%;
+}
+h1 {
+  color: rgb(165, 157, 210);
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
+
+h2 {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  border: 1px solid;
+  border-radius: 50%;
+  padding: 50px 10px;
+  max-width: 28%;
+  font-family: "Playfair Display", serif;
+}
+
+h3 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
+
+h6 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  color: #757575;
+}
+
+p {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
+
+.degtemp {
+  font-size: 20px;
+}
+
+.dow {
+  display: block;
+  margin: 0 auto;
+  line-height: 50px;
+}
+
+.searchandsubmit {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-family: "Playfair Display", serif;
+}
